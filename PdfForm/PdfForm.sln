@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfForm", "PdfForm\PdfForm.csproj", "{FB020A9D-CF6E-4B97-BECD-69E69B6E8307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB020A9D-CF6E-4B97-BECD-69E69B6E8307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB020A9D-CF6E-4B97-BECD-69E69B6E8307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB020A9D-CF6E-4B97-BECD-69E69B6E8307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB020A9D-CF6E-4B97-BECD-69E69B6E8307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA13C3AC-B610-4F50-9B90-42F87084761F}
+	EndGlobalSection
+EndGlobal
